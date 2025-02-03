@@ -1,0 +1,13 @@
+{
+  "base_url": "https://www.olx.kz/",
+  "params": {
+    "type": "nedvizhimost",
+    "space": "arenda-kvartiry",
+    "cities": ["alma-ata", "astana", "shymkent"],
+    "rental_period": "monthly",
+    "has_photos": true,
+    "from_owner": true,
+    "rooms": [1, 2, 3]
+  },
+  "max_ads_per_city": 100
+}
